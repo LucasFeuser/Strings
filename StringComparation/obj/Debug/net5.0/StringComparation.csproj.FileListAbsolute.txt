@@ -1,0 +1,16 @@
+C:\dev\StringComparation\bin\Debug\net5.0\StringComparation.exe
+C:\dev\StringComparation\bin\Debug\net5.0\StringComparation.deps.json
+C:\dev\StringComparation\bin\Debug\net5.0\StringComparation.runtimeconfig.json
+C:\dev\StringComparation\bin\Debug\net5.0\StringComparation.runtimeconfig.dev.json
+C:\dev\StringComparation\bin\Debug\net5.0\StringComparation.dll
+C:\dev\StringComparation\bin\Debug\net5.0\StringComparation.pdb
+C:\dev\StringComparation\obj\Debug\net5.0\StringComparation.csproj.AssemblyReference.cache
+C:\dev\StringComparation\obj\Debug\net5.0\StringComparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\StringComparation\obj\Debug\net5.0\StringComparation.AssemblyInfoInputs.cache
+C:\dev\StringComparation\obj\Debug\net5.0\StringComparation.AssemblyInfo.cs
+C:\dev\StringComparation\obj\Debug\net5.0\StringComparation.csproj.CoreCompileInputs.cache
+C:\dev\StringComparation\obj\Debug\net5.0\StringComparation.dll
+C:\dev\StringComparation\obj\Debug\net5.0\refint\StringComparation.dll
+C:\dev\StringComparation\obj\Debug\net5.0\StringComparation.pdb
+C:\dev\StringComparation\obj\Debug\net5.0\StringComparation.genruntimeconfig.cache
+C:\dev\StringComparation\obj\Debug\net5.0\ref\StringComparation.dll

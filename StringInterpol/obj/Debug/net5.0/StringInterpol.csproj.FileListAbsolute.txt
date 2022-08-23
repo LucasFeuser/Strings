@@ -1,0 +1,16 @@
+C:\dev\StringInterpol\obj\Debug\net5.0\StringInterpol.csproj.AssemblyReference.cache
+C:\dev\StringInterpol\obj\Debug\net5.0\StringInterpol.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\StringInterpol\obj\Debug\net5.0\StringInterpol.AssemblyInfoInputs.cache
+C:\dev\StringInterpol\obj\Debug\net5.0\StringInterpol.AssemblyInfo.cs
+C:\dev\StringInterpol\obj\Debug\net5.0\StringInterpol.csproj.CoreCompileInputs.cache
+C:\dev\StringInterpol\bin\Debug\net5.0\StringInterpol.exe
+C:\dev\StringInterpol\bin\Debug\net5.0\StringInterpol.deps.json
+C:\dev\StringInterpol\bin\Debug\net5.0\StringInterpol.runtimeconfig.json
+C:\dev\StringInterpol\bin\Debug\net5.0\StringInterpol.runtimeconfig.dev.json
+C:\dev\StringInterpol\bin\Debug\net5.0\StringInterpol.dll
+C:\dev\StringInterpol\bin\Debug\net5.0\StringInterpol.pdb
+C:\dev\StringInterpol\obj\Debug\net5.0\StringInterpol.dll
+C:\dev\StringInterpol\obj\Debug\net5.0\refint\StringInterpol.dll
+C:\dev\StringInterpol\obj\Debug\net5.0\StringInterpol.pdb
+C:\dev\StringInterpol\obj\Debug\net5.0\StringInterpol.genruntimeconfig.cache
+C:\dev\StringInterpol\obj\Debug\net5.0\ref\StringInterpol.dll
