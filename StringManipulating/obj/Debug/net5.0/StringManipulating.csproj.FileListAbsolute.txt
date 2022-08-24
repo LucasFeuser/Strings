@@ -1,0 +1,16 @@
+C:\dev\StringsModule\StringManipulating\bin\Debug\net5.0\StringManipulating.exe
+C:\dev\StringsModule\StringManipulating\bin\Debug\net5.0\StringManipulating.deps.json
+C:\dev\StringsModule\StringManipulating\bin\Debug\net5.0\StringManipulating.runtimeconfig.json
+C:\dev\StringsModule\StringManipulating\bin\Debug\net5.0\StringManipulating.runtimeconfig.dev.json
+C:\dev\StringsModule\StringManipulating\bin\Debug\net5.0\StringManipulating.dll
+C:\dev\StringsModule\StringManipulating\bin\Debug\net5.0\StringManipulating.pdb
+C:\dev\StringsModule\StringManipulating\obj\Debug\net5.0\StringManipulating.csproj.AssemblyReference.cache
+C:\dev\StringsModule\StringManipulating\obj\Debug\net5.0\StringManipulating.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\StringsModule\StringManipulating\obj\Debug\net5.0\StringManipulating.AssemblyInfoInputs.cache
+C:\dev\StringsModule\StringManipulating\obj\Debug\net5.0\StringManipulating.AssemblyInfo.cs
+C:\dev\StringsModule\StringManipulating\obj\Debug\net5.0\StringManipulating.csproj.CoreCompileInputs.cache
+C:\dev\StringsModule\StringManipulating\obj\Debug\net5.0\StringManipulating.dll
+C:\dev\StringsModule\StringManipulating\obj\Debug\net5.0\refint\StringManipulating.dll
+C:\dev\StringsModule\StringManipulating\obj\Debug\net5.0\StringManipulating.pdb
+C:\dev\StringsModule\StringManipulating\obj\Debug\net5.0\StringManipulating.genruntimeconfig.cache
+C:\dev\StringsModule\StringManipulating\obj\Debug\net5.0\ref\StringManipulating.dll

@@ -1,0 +1,16 @@
+C:\dev\StringsModule\Equals\bin\Debug\net5.0\Equals.exe
+C:\dev\StringsModule\Equals\bin\Debug\net5.0\Equals.deps.json
+C:\dev\StringsModule\Equals\bin\Debug\net5.0\Equals.runtimeconfig.json
+C:\dev\StringsModule\Equals\bin\Debug\net5.0\Equals.runtimeconfig.dev.json
+C:\dev\StringsModule\Equals\bin\Debug\net5.0\Equals.dll
+C:\dev\StringsModule\Equals\bin\Debug\net5.0\Equals.pdb
+C:\dev\StringsModule\Equals\obj\Debug\net5.0\Equals.csproj.AssemblyReference.cache
+C:\dev\StringsModule\Equals\obj\Debug\net5.0\Equals.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\StringsModule\Equals\obj\Debug\net5.0\Equals.AssemblyInfoInputs.cache
+C:\dev\StringsModule\Equals\obj\Debug\net5.0\Equals.AssemblyInfo.cs
+C:\dev\StringsModule\Equals\obj\Debug\net5.0\Equals.csproj.CoreCompileInputs.cache
+C:\dev\StringsModule\Equals\obj\Debug\net5.0\Equals.dll
+C:\dev\StringsModule\Equals\obj\Debug\net5.0\refint\Equals.dll
+C:\dev\StringsModule\Equals\obj\Debug\net5.0\Equals.pdb
+C:\dev\StringsModule\Equals\obj\Debug\net5.0\Equals.genruntimeconfig.cache
+C:\dev\StringsModule\Equals\obj\Debug\net5.0\ref\Equals.dll

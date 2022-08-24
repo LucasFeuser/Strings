@@ -1,0 +1,16 @@
+C:\dev\StringsModule\StrinStart\bin\Debug\net5.0\StrinStart.exe
+C:\dev\StringsModule\StrinStart\bin\Debug\net5.0\StrinStart.deps.json
+C:\dev\StringsModule\StrinStart\bin\Debug\net5.0\StrinStart.runtimeconfig.json
+C:\dev\StringsModule\StrinStart\bin\Debug\net5.0\StrinStart.runtimeconfig.dev.json
+C:\dev\StringsModule\StrinStart\bin\Debug\net5.0\StrinStart.dll
+C:\dev\StringsModule\StrinStart\bin\Debug\net5.0\StrinStart.pdb
+C:\dev\StringsModule\StrinStart\obj\Debug\net5.0\StrinStart.csproj.AssemblyReference.cache
+C:\dev\StringsModule\StrinStart\obj\Debug\net5.0\StrinStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\StringsModule\StrinStart\obj\Debug\net5.0\StrinStart.AssemblyInfoInputs.cache
+C:\dev\StringsModule\StrinStart\obj\Debug\net5.0\StrinStart.AssemblyInfo.cs
+C:\dev\StringsModule\StrinStart\obj\Debug\net5.0\StrinStart.csproj.CoreCompileInputs.cache
+C:\dev\StringsModule\StrinStart\obj\Debug\net5.0\StrinStart.dll
+C:\dev\StringsModule\StrinStart\obj\Debug\net5.0\refint\StrinStart.dll
+C:\dev\StringsModule\StrinStart\obj\Debug\net5.0\StrinStart.pdb
+C:\dev\StringsModule\StrinStart\obj\Debug\net5.0\StrinStart.genruntimeconfig.cache
+C:\dev\StringsModule\StrinStart\obj\Debug\net5.0\ref\StrinStart.dll

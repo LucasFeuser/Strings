@@ -1,0 +1,16 @@
+C:\dev\StringsModule\AditionalMethods\bin\Debug\net5.0\AditionalMethods.exe
+C:\dev\StringsModule\AditionalMethods\bin\Debug\net5.0\AditionalMethods.deps.json
+C:\dev\StringsModule\AditionalMethods\bin\Debug\net5.0\AditionalMethods.runtimeconfig.json
+C:\dev\StringsModule\AditionalMethods\bin\Debug\net5.0\AditionalMethods.runtimeconfig.dev.json
+C:\dev\StringsModule\AditionalMethods\bin\Debug\net5.0\AditionalMethods.dll
+C:\dev\StringsModule\AditionalMethods\bin\Debug\net5.0\AditionalMethods.pdb
+C:\dev\StringsModule\AditionalMethods\obj\Debug\net5.0\AditionalMethods.csproj.AssemblyReference.cache
+C:\dev\StringsModule\AditionalMethods\obj\Debug\net5.0\AditionalMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\StringsModule\AditionalMethods\obj\Debug\net5.0\AditionalMethods.AssemblyInfoInputs.cache
+C:\dev\StringsModule\AditionalMethods\obj\Debug\net5.0\AditionalMethods.AssemblyInfo.cs
+C:\dev\StringsModule\AditionalMethods\obj\Debug\net5.0\AditionalMethods.csproj.CoreCompileInputs.cache
+C:\dev\StringsModule\AditionalMethods\obj\Debug\net5.0\AditionalMethods.dll
+C:\dev\StringsModule\AditionalMethods\obj\Debug\net5.0\refint\AditionalMethods.dll
+C:\dev\StringsModule\AditionalMethods\obj\Debug\net5.0\AditionalMethods.pdb
+C:\dev\StringsModule\AditionalMethods\obj\Debug\net5.0\AditionalMethods.genruntimeconfig.cache
+C:\dev\StringsModule\AditionalMethods\obj\Debug\net5.0\ref\AditionalMethods.dll
